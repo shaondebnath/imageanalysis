@@ -24,6 +24,11 @@ It's also possible to configure your credentials via a configuration file or
 directly in source. See the AWS SDK for Node.js [Developer Guide](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-configuring.html)
 for more information.
 
+## install gcloud => https://cloud.google.com/storage/docs/gsutil_install
+create a project from console
+then initialize your credential with
+gcloud init
+
 ## Running the S3 sample
 
 This sample application connects to Amazon's [Simple Storage Service (S3)](http://aws.amazon.com/s3),
